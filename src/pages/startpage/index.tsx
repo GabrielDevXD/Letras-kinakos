@@ -12,12 +12,11 @@ const StartPage = () => {
         </S.iconConfig>
       </S.heading>
       <S.content>
-        <S.text1>kinako viado</S.text1>
-        <S.text2>kinako viado</S.text2>
+        <S.text1></S.text1>
+        <S.text2></S.text2>
         <S.text3>
-          kinako viado kinako viado kinako viado kinako viado kinako viado
-          kinako viadokinako viado kinako viado kinako viado kinako viado kinako
-          viado kinako viado
+        
+         
         </S.text3>
       </S.content>
       <S.primaryFooter>
